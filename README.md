@@ -1,3 +1,5 @@
+NOTE: OL6 was used to match the client's production environment at the time of implementation.
+
 # 2-Node Oracle RAC 12c on VirtualBox
 
 Oracle Real Application Clusters 12c R1 (12.1.0.2) implemented on Oracle Linux 6
