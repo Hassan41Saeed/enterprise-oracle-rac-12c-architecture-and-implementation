@@ -172,6 +172,10 @@ SELECT inst_name FROM v$active_instances;
 ```
 ---
 
+## Image 
+<img width="1408" height="768" alt="orace_2_node_rac" src="https://github.com/user-attachments/assets/f21eb026-2ec7-4740-8eec-03fc5d0776bf" />
+
+
 ## Full Implementation Guide
 
 The complete step-by-step SOP with screenshots is available in
